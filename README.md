@@ -4,9 +4,9 @@ TaskForge is a responsive project and task management frontend built with React 
 
 ## Interface preview
 
-![TaskForge project board](docs/screenshots/taskforge-project-board.png)
+![TaskForge dashboard](docs/screenshots/taskforge-dashboard.png)
 
-*Project board view from the TaskForge interface.*
+*Dashboard view from the TaskForge interface.*
 
 ## Main views and interactions
 
